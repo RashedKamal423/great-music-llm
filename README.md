@@ -36,7 +36,7 @@ This landing page was created as part of BC Digital's Frontend Coding Challenge.
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/RashedKamal423/great-music-llm
 cd great-music-llm
 ```
 
@@ -80,14 +80,7 @@ npm run preview
 
 ## 🌐 Deployment
 
-This project is deployed on Vercel. To deploy your own version:
-
-1. Push your code to GitHub
-2. Import the project in [Vercel](https://vercel.com)
-3. Vercel will automatically detect Vite settings
-4. Click "Deploy"
-
-Your site will be live at: `https://your-project-name.vercel.app`
+This project is deployed on Vercel to the following link: `https://great-music-llm.vercel.app/`
 
 ## 🎯 Design Decisions
 
