@@ -147,5 +147,5 @@ This project is part of a coding challenge submission for BC Digital.
 
 ## 👨‍💻 Developer
 
-Created for BC Digital's Frontend Developer position application.
+Created by Rashed Kamal for BC Digital's Frontend Developer position application.
 
